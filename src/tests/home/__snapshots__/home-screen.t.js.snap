@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Inter",
+          "fontSize": 48,
+        },
+        {
+          "color": "rgba(103, 80, 164, 1)",
+        },
+      ]
+    }
+  >
+    Open up App.js to start working on your app!
+  </Text>
+</View>
+`;
